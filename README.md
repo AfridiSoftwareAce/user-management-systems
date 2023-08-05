@@ -36,8 +36,6 @@ This User Management System is a CRUD application that allows you to manage user
 ## Contribution
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Support
 If you have any questions or need help with the setup, please open an issue or contact me directly at afridiwara@ymail.com
