@@ -15,7 +15,7 @@ This User Management System is a CRUD application that allows you to manage user
 - ExpressJs
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone [https://github.com/your-username/your-repository.git](https://github.com/AfridiSoftwareAce/user-management-systems)`
 2. Navigate to the project folder: `cd your-repository`
 3. Install the dependencies: `npm install`
 4. Copy `.env.example` to `.env` and fill in the required variables (e.g., MongoDB connection string).
